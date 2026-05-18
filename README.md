@@ -195,6 +195,4 @@ docker build -t ms-pedidos .
 
 # URL del servicio desplegado
 
-```text
-PENDIENTE
-```
+https://ms-pedidos-u6og.onrender.com
